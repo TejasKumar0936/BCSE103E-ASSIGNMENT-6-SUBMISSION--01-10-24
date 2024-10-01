@@ -2,7 +2,7 @@
 
 23BAI1564 BCSE103E ASSIGNEMENT WORD FILE SUBMISSION @VIT CC FACULTY: RAJIV VINCENT
 
-**Exercises for Lab on 30-9-24** 
+**Exercises for Lab on 01-10-24** 
 
 
 
