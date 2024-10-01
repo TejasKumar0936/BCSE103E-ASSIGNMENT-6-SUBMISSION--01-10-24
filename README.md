@@ -65,12 +65,12 @@
 
 
 
-|**Test Cases Input** |<p>**0** </p><p>**5** </p><p>**2 abc 50 def 200 2 abc 50 def** </p><p>**40** </p>|
+|**Test Cases Input** |<p>**0 5 2 abc 50 def 200 2 abc 50 def 40** </p>|
 | - | - |
 |**Test Cases Expected Output** |**8292.50** |
-|**Test Cases Input** |<p>**1** </p><p>**5** </p><p>**2 abc 50 def 200 2 abc 50 def 40** </p>|
+|**Test Cases Input** |<p>**1 5 2 abc 50 def 200 2 abc 50 def 40** |
 |**Test Cases Expected Output** |**8342.50** |
-|**Hidden Test Cases Input** |<p>**0** </p><p>**5** </p><p>**3 abc 50 def 20 efg 75 3 efg 30 abc 50 def** </p><p>**40** </p>|
+|**Hidden Test Cases Input** |<p>**0 5 3 abc 50 def 20 efg 75 3 efg 30 abc 50 def 40** </p>|
 |**Hidden Test Cases Expected Output** |**4406.75** |
 |**Hidden Test Cases Input** |**1 5** |
 
